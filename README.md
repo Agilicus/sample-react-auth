@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+## Sample-react-app
+
+See [instructions](https://www.agilicus.com/example/sample-react-application/)
+on how to use this sample.
+
+```
+npx create-react-app sample-react-auth
+cd sample-react-auth
+npm install --save react-openidconnect
+```
+
+See [react-openidconnect](https://www.npmjs.com/package/react-openidconnect)
+for more information on the library used.
+
+This code is available under an MIT license (SPDX:MIT)
+
+## Tooling
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
